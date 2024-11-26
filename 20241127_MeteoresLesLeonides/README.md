@@ -1,3 +1,9 @@
+# Météores - Les Léonides
+
+![image](https://github.com/user-attachments/assets/b9e365af-08d2-4512-9268-23964030a598)
+
+Le thème des météores Léonides, a été choisi pour introduire aux enfants le phénomène fascinant des pluies de météores, en lien avec la période de l’année où elles sont visibles, en Novembre. Les Léonides, provenant de la comète Tempel-Tuttle, offrent un spectacle naturel captivant, où des fragments de poussière créent de brillantes traînées lumineuses en traversant l’atmosphère terrestre. Ce thème permet d’explorer à la fois des notions scientifiques sur l’espace et de stimuler l’imagination des enfants à travers des activités créatives, interactives et physiques.
+
 ## Agenda
 
 | Heure de début | Heure de fin | Activité                                              | Responsable |

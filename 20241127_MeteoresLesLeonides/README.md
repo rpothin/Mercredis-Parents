@@ -6,56 +6,44 @@ Le thème des météores Léonides, a été choisi pour introduire aux enfants l
 
 ## Agenda
 
-| Heure de début | Heure de fin | Activité                                              | Responsable |
-| -------------- | ------------ | ----------------------------------------------------- | ----------- |
-| 8h             | 8h05         | Accueil et introduction du thème                      | Raphaël     |
-| 8h05           | 8h20         | Causerie d'ouverture et vidéo pour illustrer le thème | Raphaël     |
-| 8h20           | 9h20         | Activité 1 - Bricolage                                | Christian   |
-| 9h20           | 9h35         | Collation                                             |             |
-| 9h35           | 10h05        | Activité 2 - Jeu Quiz                                 | Raphaël     |
-| 10h05          | 10h25        | Récréation à l'éxtérieur                              |             |
-| 10h25          | 10h50        | Activité 3 - Jeux physiques à l'éxtérieur             | Raphaël     |
-| 10h50          | 11h10        | Activité 4 - Lecture d'une histoire                   | Christian   |
-| 11h10          | 11h20        | Rangement et causerie de clôture                      | Raphaël     |
-
-### 8h - 8h05 : Accueil (Raphaël)
-
-Petit mot de bienvenue pour introduire le thème des étoiles filantes.
-
-### 8h05 - 8h20 : Causerie + Vidéo (Raphaël)
-
-Discussion interactive pour engager les enfants sur le sujet : poser quelques questions pour savoir ce qu’ils connaissent déjà ou s’ils ont vu des étoiles filantes. On pourrait conclure avec une courte vidéo explicative.
-
-### 8h20 - 9h20 : Activité 1 - Bricolage (Christian)
-
-Création des étoiles filantes avec toi. Prévoir environ 50 minutes, plus 10 minutes pour ranger.
-
-### 9h20 - 9h35 : Collation
-
-### 9h35 - 10h05 : Activité 2 - Jeu Quiz (Raphaël)
-
-Un quiz interactif en équipes sur les étoiles filantes et l’astronomie pour ajouter un côté ludique.
-
-### 10h05 - 10h25 : Récréation à l’extérieur
-
-### 10h25 - 10h50 : Activité 3 - Jeux physiques (Raphaël)
-
-J’ai en tête deux idées : une « Course aux Météores » où les enfants transporteraient des ballons (météores) vers des paniers, ou un jeu d’« Attrape-Météores » où un groupe lancerait des petits ballons (météores) et l’autre groupe essaierait de les attraper dans des paniers ou sacs.
-
-### 10h50 - 11h10 : Lecture (Christian)
-
-Ton histoire pour ramener les enfants au calme avant la fin de la matinée.
-
-### 11h10 - 11h20 : Rangement + Discussion finale
-
-Rangement et petite discussion de clôture pour voir ce que les enfants ont retenu ou préféré.
+| Heure de début | Heure de fin | Activité                                     | Animateur |
+| -------------- | ------------ | -------------------------------------------- | --------- |
+| 8h             | 8h05         | Accueil et introduction du thème             | Raphaël   |
+| 8h05           | 8h20         | Causerie d'ouverture et vidéo d'illustration | Raphaël   |
+| 8h20           | 9h20         | Activité 1 - Bricolage                       | Christian |
+| 9h20           | 9h35         | Collation                                    |           |
+| 9h35           | 10h05        | Activité 2 - Jeu Quiz                        | Raphaël   |
+| 10h05          | 10h25        | Récréation à l'éxtérieur                     |           |
+| 10h25          | 10h50        | Activité 3 - Jeux physiques à l'éxtérieur    | Raphaël   |
+| 10h50          | 11h10        | Activité 4 - Lecture d'une histoire          | Christian |
+| 11h10          | 11h20        | Rangement et causerie de clôture             | Raphaël   |
 
 ## Détails
 
+### Causerie d'ouverture et vidéo d'illustration
+
+Questions aux enfants:
+
+- Qui a déjà vu une étoile filante?
+- Qu’est-ce que c’est une étoile filante?
+
+[Tout comprendre sur : les pluies de météores](https://youtu.be/wVpxLuElDeM?si=iLl-lUhGMzIXVlhD)
+
+### Bricolage
+
+// Détails à venir
+
 ### Quizz
+
+Les enfants se répartissent en 4-5 équipes et chaque équipe recoit 3 petits cartons de couleur (rouge, bleu et jaune) pour répondre aux questions. Les questions sont posées par l’animateur et les enfants doivent échanger entre eux pour trouver la réponse puis lever le carton de la couleur correspondante.
+
+[Support]() // lien à venir
 
 ### Jeux Physiques
 
-#### Course aux Météores
+- **Course aux Météores** : Les enfants sont divisés en 2 équipes et doivent transporter des balles de tennis (météores) vers des bols placés à une certaine distance. L’équipe qui termine en premier gagne.
+- **Attrape-Météores** : Les enfants forment des binômes. Un enfant lance une balles de tennis (météore) vers le ciel et l’autre doit les attraper à la main. Puis ils échangent les rôles et continuent à jouer pendant quelques minutes.
 
-#### Attrape-Météores
+### Lecture
+
+[« Une nuit de rêve » de Rhéa Dufresne - Apercu](https://r.cantook.com/enqc/sample/aHR0cHM6Ly93d3cuZW50cmVwb3RudW1lcmlxdWUuY29tL3NhbXBsZS83MTEzMS93ZWJfcmVhZGVyX21hbmlmZXN0P2Zvcm1hdF9uYXR1cmU9cGRmJnNpZ2lkPTE3MjYzMTY1MzYmc2lnbmF0dXJlPWJhMWQ3OGNlZDUwYmM5ZjlhYzVkOWRlYWVjNWI3ZGEwMmU5NjQ2NDhhNzBiZTI2ZTE4ZDk2NTY3NmNhYzZkZTc)

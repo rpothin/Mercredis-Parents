@@ -35,9 +35,9 @@ Questions aux enfants:
 
 ### Quizz
 
-Les enfants se répartissent en 4-5 équipes et chaque équipe recoit 3 petits cartons de couleur (rouge, bleu et jaune) pour répondre aux questions. Les questions sont posées par l’animateur et les enfants doivent échanger entre eux pour trouver la réponse puis lever le carton de la couleur correspondante.
+Les enfants se répartissent en équipes et chaque équipe recoit 3 cartons de couleur (rouge, bleu et jaune) pour répondre aux questions. Les questions sont posées par l’animateur et les enfants doivent échanger entre eux pour trouver la réponse puis lever le carton de la couleur correspondante.
 
-[Support]() // lien à venir
+[Support PowerPoint](https://rpothinmvp-my.sharepoint.com/:p:/g/personal/raphael_rpothinmvp_onmicrosoft_com/EQ9UT1C14_9FthUJNWPHIUYBDh5q-bRW6VByRzKgic44XA?e=nVE0rj)
 
 ### Jeux Physiques
 

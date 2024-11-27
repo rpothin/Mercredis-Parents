@@ -31,7 +31,7 @@ Questions aux enfants:
 
 ### Bricolage
 
-// Détails à venir
+[Illustration d'une réalisation par Christian](./Activite_Bricolage.pdf)
 
 ### Quizz
 

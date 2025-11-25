@@ -1,6 +1,6 @@
 # Les Abeilles 🐝
 
-![image](https://github.com/user-attachments/assets/b9e365af-08d2-4512-9268-23964030a598)
+![image](https://github.com/user-attachments/assets/f1029a6b-0101-4fdf-98d3-4c9bb8ad60d4)
 
 Le thème des abeilles a été choisi pour introduire aux enfants le monde fascinant de ces petites créatures essentielles à notre environnement. Les abeilles permettent d'aborder de manière ludique des notions importantes comme le travail d'équipe, l'organisation d'une communauté (la ruche), le cycle de la nature et la pollinisation. Ce sujet éveille leur curiosité naturelle, les sensibilise à la protection de la biodiversité et leur fait comprendre l'importance de chaque être vivant dans l'équilibre de notre planète. C'est aussi l'occasion de démystifier ces insectes souvent craints et de transformer cette peur en admiration !
 
@@ -68,3 +68,4 @@ Des balles de couleur représentant le pollen sont cachées dans la cour de réc
 ### Lecture
 
 [« ... » de ... - Apercu](...)
+

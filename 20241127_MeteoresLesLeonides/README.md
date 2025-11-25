@@ -37,7 +37,7 @@ Questions aux enfants:
 
 Les enfants se répartissent en équipes et chaque équipe recoit 3 cartons de couleur (rouge, bleu et jaune) pour répondre aux questions. Les questions sont posées par l’animateur et les enfants doivent échanger entre eux pour trouver la réponse puis lever le carton de la couleur correspondante.
 
-[Support PowerPoint](https://rpothinmvp-my.sharepoint.com/:p:/g/personal/raphael_rpothinmvp_onmicrosoft_com/EQ9UT1C14_9FthUJNWPHIUYBDh5q-bRW6VByRzKgic44XA?e=nVE0rj)
+[Version PDF de la presentation utilisee pour le quizz](./Quiz%20-%20A%20la%20decouverte%20des%20Meteores.pdf)
 
 ### Jeux Physiques
 

@@ -43,7 +43,7 @@ Les enfants sont invités à créer leur propre abeille, en choisissant entre de
 
 L'activité est libre et créative : chaque enfant peut laisser libre cours à son imagination pour donner vie à son abeille. Les animateurs sont disponibles pour accompagner et aider les enfants dans leurs réalisations.
 
-### Quizz
+### Quiz
 
 Chaque équipe (une table) reçoit 3 cartons de couleur : 🔴 Rouge, 🔵 Bleu et 🟡 Jaune.
 

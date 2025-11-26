@@ -33,11 +33,11 @@ Questions aux enfants:
 
 [Illustration d'une réalisation par Christian](./Activite_Bricolage.pdf)
 
-### Quizz
+### Quiz
 
 Les enfants se répartissent en équipes et chaque équipe recoit 3 cartons de couleur (rouge, bleu et jaune) pour répondre aux questions. Les questions sont posées par l’animateur et les enfants doivent échanger entre eux pour trouver la réponse puis lever le carton de la couleur correspondante.
 
-[Version PDF de la presentation utilisee pour le quizz](./Quiz%20-%20A%20la%20decouverte%20des%20Meteores.pdf)
+[Version PDF de la presentation utilisee pour le quiz](./Quiz%20-%20A%20la%20decouverte%20des%20Meteores.pdf)
 
 ### Jeux Physiques
 

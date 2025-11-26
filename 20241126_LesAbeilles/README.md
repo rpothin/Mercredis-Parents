@@ -55,7 +55,7 @@ Chaque équipe (une table) reçoit 3 cartons de couleur : 🔴 Rouge, 🔵 Bleu 
 5. L'animateur révèle la bonne réponse (bonne couleur)
 6. Optionnel : un enfant par équipe peut noter les bonnes réponses sur une feuille (avec des bâtons) pour compter les points
 
-[Application de quiz fait maison](...)
+[Application de quiz fait maison](https://sparkle-quiz-fun.lovable.app)
 
 ### Jeu Physique
 

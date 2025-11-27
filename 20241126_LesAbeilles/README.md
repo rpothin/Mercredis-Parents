@@ -43,20 +43,6 @@ Les enfants sont invités à créer leur propre abeille, en choisissant entre de
 
 L'activité est libre et créative : chaque enfant peut laisser libre cours à son imagination pour donner vie à son abeille. Les animateurs sont disponibles pour accompagner et aider les enfants dans leurs réalisations.
 
-### Quiz
-
-Chaque équipe (une table) reçoit 3 cartons de couleur : 🔴 Rouge, 🔵 Bleu et 🟡 Jaune.
-
-**Déroulement :**
-1. L'animateur affiche et lit la question à voix haute
-2. Chaque option est associée à une couleur (l'ordre change à chaque question pour garder l'attention des enfants)
-3. Les enfants de chaque équipe discutent entre eux pour choisir leur réponse
-4. Au signal de l'animateur, chaque équipe lève le carton de la couleur correspondant à leur choix
-5. L'animateur révèle la bonne réponse (bonne couleur)
-6. Optionnel : un enfant par équipe peut noter les bonnes réponses sur une feuille (avec des bâtons) pour compter les points
-
-[Application de quiz fait maison](https://sparkle-quiz-fun.lovable.app)
-
 ### Jeu Physique
 
 **La Récolte du Pollen 🌸**
@@ -73,7 +59,21 @@ Des balles de couleur représentant le pollen sont cachées dans la cour de réc
 - Chaque équipe doit récupérer uniquement les balles de sa couleur
 - L'équipe qui ramène le plus de pollen de sa couleur à la ruche gagne !
 
+### Quiz
+
+Chaque équipe (une table) reçoit 3 cartons de couleur : 🔴 Rouge, 🔵 Bleu et 🟡 Jaune.
+
+**Déroulement :**
+1. L'animateur affiche et lit la question à voix haute
+2. Chaque option est associée à une couleur (l'ordre change à chaque question pour garder l'attention des enfants)
+3. Les enfants de chaque équipe discutent entre eux pour choisir leur réponse
+4. Au signal de l'animateur, chaque équipe lève le carton de la couleur correspondant à leur choix
+5. L'animateur révèle la bonne réponse (bonne couleur)
+6. Optionnel : un enfant par équipe peut noter les bonnes réponses sur une feuille (avec des bâtons) pour compter les points
+
+[Application de quiz fait maison](https://sparkle-quiz-fun.lovable.app)
+
 ### Lecture
 
-[« ... » de ... - Apercu](...)
+[« Tout commence par une abeille : comment une toute petite abeille permet au monde d'éclore » d'Aimee Gallagher](https://trouvelivre.ca/livre/tout-commence-par-une-abeille-comment-une-toute-petite-abeille-permet-au-monde-declore/)
 

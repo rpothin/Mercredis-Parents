@@ -1,11 +1,10 @@
 # Les Volcans 🌋
 
-![image](https://github.com/user-attachments/assets/placeholder-volcans)
+<img width="1276" height="720" alt="image" src="https://github.com/user-attachments/assets/6eb6e6ee-d14d-48b9-9c70-70dc990eb9e9" />
 
-Le thème des volcans a été choisi pour introduire aux enfants le phénomène fascinant des éruptions volcaniques, en lien avec l'éruption récente du Piton de la Fournaise survenue en janvier 2026 sur l'île de la Réunion. Ce sujet résonne particulièrement puisque Raphaël est né et a grandi à la Réunion, au pied de ce volcan parmi les plus actifs au monde. Cette matinée permet d'explorer des notions scientifiques sur la géologie, de découvrir une île tropicale de l'océan Indien et de stimuler la curiosité des enfants à travers des activités expérimentales, physiques et créatives.
+<img width="1593" height="1200" alt="image" src="https://github.com/user-attachments/assets/9d5dd7d7-410c-4b40-ab3b-52108740b778" />
 
-> [!NOTE]
-> Pour cette édition en classe de maternelle, la matinée commence à 9h (soit 1h plus tard que pour les autres classes).
+Le thème des volcans a été choisi pour introduire aux enfants le phénomène fascinant des éruptions volcaniques, en lien avec l'éruption récente du Piton de la Fournaise survenue en janvier 2026 sur l'île de la Réunion. Ce sujet résonne particulièrement puisque Raphaël est né et a grandi à la Réunion, proche de ce volcan parmi les plus actifs au monde. Cette matinée permettra aux enfants de découvrir des notions scientifiques sur la géologie, de découvrir une île tropicale de l'océan Indien et de stimuler la curiosité des enfants à travers des activités expérimentales, physiques et créatives.
 
 ## Agenda
 
@@ -33,9 +32,8 @@ Questions aux enfants :
 
 Ressources vidéo / actualité :
 
-- [Volkan la pété ! – Les premières images de l'éruption](https://imazpress.com/volcan/volkan-la-pete-les-premieres-images-de-l-eruption)
-- [Volcan – Spectacle en cours au Piton de la Fournaise](https://imazpress.com/selection-de-la-redaction/volcan-spectacle-en-cours-au-piton-de-la-fournaise)
-- [Volcan – Éruption 2026](https://imazpress.com/selection-de-la-redaction/volcan-eruption-2026)
+- [Vidéo de l'éruption de Janvier 2026 du Piton de la Fournaise à l'ile de la Réunion par l'Observatoire Volcanologique du Piton de la Fournaise](https://www.facebook.com/watch/?v=4324087561157461)
+- [Vidéo de l'éruption de Janvier 2026 du Piton de la Fournaise à l'ile de la Réunion par la Gendarmerie de la Réunion](https://www.facebook.com/watch/?v=4426145944280993)
 
 ### Atelier scientifique : éruption volcanique
 
@@ -49,7 +47,7 @@ $$NaHCO_3 + CH_3COOH \rightarrow CH_3COONa + H_2O + CO_2 \uparrow$$
 
 **Matériel :**
 
-- 2 maquettes de volcans (bouteilles de plastique habillées)
+- 2 maquettes de volcans
 - Bicarbonate de soude (2 à 3 cuillères à soupe par essai)
 - Vinaigre blanc teinté de colorant alimentaire rouge
 - Une goutte de savon à vaisselle (pour faire mousser la "lave")

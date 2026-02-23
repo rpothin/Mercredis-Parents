@@ -4,7 +4,8 @@
 
 Le thème des volcans a été choisi pour introduire aux enfants le phénomène fascinant des éruptions volcaniques, en lien avec l'éruption récente du Piton de la Fournaise survenue en janvier 2026 sur l'île de la Réunion. Ce sujet résonne particulièrement puisque Raphaël est né et a grandi à la Réunion, au pied de ce volcan parmi les plus actifs au monde. Cette matinée permet d'explorer des notions scientifiques sur la géologie, de découvrir une île tropicale de l'océan Indien et de stimuler la curiosité des enfants à travers des activités expérimentales, physiques et créatives.
 
-> **Note :** Pour cette édition en classe de maternelle, la matinée commence à 9h (soit 1h plus tard que pour les autres classes).
+> [!NOTE]
+> Pour cette édition en classe de maternelle, la matinée commence à 9h (soit 1h plus tard que pour les autres classes).
 
 ## Agenda
 
@@ -13,10 +14,10 @@ Le thème des volcans a été choisi pour introduire aux enfants le phénomène 
 | 9h00           | 9h05         | Accueil et introduction du thème                        | Raphaël   |
 | 9h05           | 9h20         | Causerie d'ouverture et vidéos d'illustration           | Raphaël   |
 | 9h20           | 10h00        | Activité 1 - Atelier scientifique : éruption volcanique | Morgane   |
-| 10h00          | 10h20        | Récréation                                              |           |
-| 10h20          | 10h50        | Activité 2 - Jeux physiques au gymnase                  | Raphaël   |
-| 10h50          | 11h15        | Activité 3 - Lecture d'une histoire                     | Morgane   |
-| 11h15          | 11h30        | Questions / réponses et causerie de clôture             | Raphaël   |
+| 10h00          | 10h30        | Récréation                                              |           |
+| 10h30          | 11h00        | Activité 2 - Jeux physiques au gymnase                  | Raphaël   |
+| 11h00          | 11h20        | Activité 3 - Lecture d'une histoire                     | Morgane   |
+| 11h20          | 11h30        | Questions / réponses et causerie de clôture             | Raphaël   |
 
 ## Détails
 

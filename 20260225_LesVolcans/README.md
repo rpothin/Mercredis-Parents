@@ -81,3 +81,11 @@ Retour en classe pour un moment calme avec la lecture d'un album jeunesse en lie
 ### Questions / réponses et causerie de clôture
 
 Moment d'échange avec les enfants : qu'ont-ils retenu ? Qu'est-ce qui les a le plus impressionnés ? Rangement de la classe et clôture de la matinée.
+
+---
+
+### Autres ressources
+
+- [La Fournaise est réveillée : les premières images de nuit de l'éruption](https://imazpress.com/volcan/volkan-la-pete-les-premieres-images-de-l-eruption)
+- [Éruption du Piton de la Fournaise : l'activité en baisse, une seule fissure encore active](https://imazpress.com/selection-de-la-redaction/volcan-spectacle-en-cours-au-piton-de-la-fournaise)
+- [Volcan : fin de l'éruption au Piton de la Fournaise](https://imazpress.com/selection-de-la-redaction/volcan-eruption-2026)

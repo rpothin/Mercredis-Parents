@@ -41,9 +41,7 @@ Morgane anime l'atelier de modélisation d'une éruption volcanique en utilisant
 
 **Le principe scientifique :**
 
-On mélange du vinaigre (acide) et du bicarbonate de soude (base) pour créer du dioxyde de carbone ($CO_2$), le gaz qui fait monter la "lave" :
-
-$$NaHCO_3 + CH_3COOH \rightarrow CH_3COONa + H_2O + CO_2 \uparrow$$
+On mélange du vinaigre (acide) et du bicarbonate de soude (base) pour créer du dioxyde de carbone ($CO_2$), le gaz qui fait monter la "lave".
 
 **Matériel :**
 

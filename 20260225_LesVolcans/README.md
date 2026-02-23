@@ -78,6 +78,8 @@ On répète le cycle plusieurs fois en variant le rythme et l'intensité.
 
 Retour en classe pour un moment calme avec la lecture d'un album jeunesse en lien avec le thème des volcans.
 
+- [Un volcan en éruption](https://www.leslibraires.ca/livres/un-volcan-en-eruption-9782898371035?srsltid=AfmBOooH4Eo9rj6LtwdkAYYyuC70aLGATLW0gDXcTkUTVDpyCLAR5am4)
+
 ### Questions / réponses et causerie de clôture
 
 Moment d'échange avec les enfants : qu'ont-ils retenu ? Qu'est-ce qui les a le plus impressionnés ? Rangement de la classe et clôture de la matinée.

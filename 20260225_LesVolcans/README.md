@@ -4,23 +4,22 @@
 
 <img width="1593" height="1200" alt="image" src="https://github.com/user-attachments/assets/9d5dd7d7-410c-4b40-ab3b-52108740b778" />
 
-Le thème des volcans a été choisi pour introduire aux enfants le phénomène fascinant des éruptions volcaniques, en lien avec l'éruption récente du Piton de la Fournaise survenue en janvier 2026 sur l'île de la Réunion. Ce sujet résonne particulièrement puisque Raphaël est né et a grandi à la Réunion, proche de ce volcan parmi les plus actifs au monde. Cette matinée permettra aux enfants de découvrir des notions scientifiques sur la géologie, de découvrir une île tropicale de l'océan Indien et de stimuler la curiosité des enfants à travers des activités expérimentales, physiques et créatives.
+Le thème des volcans a été choisi pour introduire aux enfants le phénomène fascinant des éruptions volcaniques, en lien avec l'éruption récente du Piton de la Fournaise survenue en Janvier 2026 sur l'île de la Réunion. Ce sujet résonne particulièrement puisque Raphaël est né et a grandi à la Réunion, proche de ce volcan parmi les plus actifs au monde. Cette matinée permettra aux enfants de découvrir des notions scientifiques sur la géologie, de découvrir une île tropicale de l'océan Indien et de stimuler la curiosité des enfants à travers des activités expérimentales, physiques et créatives.
 
 ## Agenda
 
 | Heure de début | Heure de fin | Activité                                                | Animateur |
 | -------------- | ------------ | ------------------------------------------------------- | --------- |
-| 9h00           | 9h05         | Accueil et introduction du thème                        | Raphaël   |
-| 9h05           | 9h20         | Causerie d'ouverture et vidéos d'illustration           | Raphaël   |
-| 9h20           | 10h00        | Activité 1 - Atelier scientifique : éruption volcanique | Morgane   |
-| 10h00          | 10h30        | Récréation                                              |           |
-| 10h30          | 11h00        | Activité 2 - Jeux physiques au gymnase                  | Raphaël   |
-| 11h00          | 11h20        | Activité 3 - Lecture d'une histoire                     | Morgane   |
+| 9h00           | 9h20         | Accueil, introduction et causerie d'ouverture           | Raphaël   |
+| 9h20           | 9h40         | Collation                                               |           |
+| 9h40           | 10h20        | Activité 1 - Atelier scientifique : éruption volcanique | Morgane   |
+| 10h20          | 10h50        | Activité 2 - Jeux physiques au gymnase                  | Raphaël   |
+| 10h50          | 11h20        | Activité 3 - Lecture d'une histoire                     | Morgane   |
 | 11h20          | 11h30        | Questions / réponses et causerie de clôture             | Raphaël   |
 
 ## Détails
 
-### Causerie d'ouverture et vidéos d'illustration
+### Accueil, introduction et causerie d'ouverture
 
 Raphaël partage une courte histoire personnelle sur son enfance à la Réunion et ses expériences avec le Piton de la Fournaise, puis présente l'éruption de janvier 2026 à l'aide de photos et de vidéos.
 

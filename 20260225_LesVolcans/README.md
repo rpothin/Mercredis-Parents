@@ -21,7 +21,7 @@ Le thème des volcans a été choisi pour introduire aux enfants le phénomène 
 
 ### Accueil, introduction et causerie d'ouverture
 
-Raphaël partage une courte histoire personnelle sur son enfance à la Réunion et ses expériences avec le Piton de la Fournaise, puis présente l'éruption de janvier 2026 à l'aide de photos et de vidéos.
+Raphaël partage une courte histoire personnelle sur son enfance à la Réunion et ses expériences avec le Piton de la Fournaise, puis présente l'éruption de Janvier 2026 à l'aide de photos et de vidéos.
 
 Questions aux enfants :
 
@@ -47,15 +47,14 @@ On mélange du vinaigre (acide) et du bicarbonate de soude (base) pour créer du
 - 2 maquettes de volcans
 - Bicarbonate de soude (2 à 3 cuillères à soupe par essai)
 - Vinaigre blanc teinté de colorant alimentaire rouge
-- Une goutte de savon à vaisselle (pour faire mousser la "lave")
 - Plateaux à rebords pour contenir les débordements
 
 **Déroulement :**
 
 1. Les enfants se répartissent en 2 groupes autour de chaque maquette
-2. On explique que le bicarbonate représente le magma et le vinaigre la pression des gaz
+2. On explique que le bicarbonate et le vinaigre vont reagir ensemble pour creer une éruption
 3. Les enfants ajoutent le vinaigre coloré dans le volcan et observent l'éruption
-4. On recommence pour que chaque enfant puisse participer
+4. On recommence pour que plusieurs enfants puissent participer
 
 ### Jeux physiques au gymnase
 
@@ -65,15 +64,15 @@ Les enfants réalisent une séquence de mouvements mimétiques guidés pour simu
 
 1. **Le Volcan Endormi** : Les enfants s'accroupissent en boule, très calmes et immobiles, comme un volcan au repos
 2. **Le Réveil** : Ils commencent à vibrer doucement et à bouger, imitant les petits séismes qui annoncent l'éruption
-3. **L'Éruption** : Au signal « Volkan la pété ! », les enfants sautent le plus haut possible en lançant leurs bras comme des fontaines de lave
-4. **La Coulée** : Ils se déplacent très lentement dans le gymnase, mimant la lave visqueuse qui descend la pente
-5. **Le Refroidissement** : Retour progressif vers le sol pour se figer et devenir de la roche solide
+3. **L'Éruption** : Au signal « Attention à l'éruption ! », les enfants sautent le plus haut possible en lançant leurs bras comme des fontaines de lave
+4. **La Coulée** : Ils se déplacent sur le ventre très lentement dans le gymnase, mimant la lave visqueuse qui descend la pente
+5. **Le Refroidissement** : Ils s'arrêtent progressivement pour se figer et devenir de la roche solide
 
 On répète le cycle plusieurs fois en variant le rythme et l'intensité.
 
 ### Lecture d'une histoire
 
-Retour en classe pour un moment calme avec la lecture d'un album jeunesse en lien avec le thème des volcans.
+Retour en classe pour un moment calme avec la lecture du livre ci-dessous en lien avec le thème des volcans.
 
 - [Un volcan en éruption](https://www.leslibraires.ca/livres/un-volcan-en-eruption-9782898371035?srsltid=AfmBOooH4Eo9rj6LtwdkAYYyuC70aLGATLW0gDXcTkUTVDpyCLAR5am4)
 

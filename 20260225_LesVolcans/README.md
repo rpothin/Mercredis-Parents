@@ -56,6 +56,8 @@ On mélange du vinaigre (acide) et du bicarbonate de soude (base) pour créer du
 3. Les enfants ajoutent le vinaigre coloré dans le volcan et observent l'éruption
 4. On recommence pour que plusieurs enfants puissent participer
 
+![IMG_5645](https://github.com/user-attachments/assets/fe0073c4-910d-4845-a702-295a72114e39)
+
 ### Jeux physiques au gymnase
 
 **Le Cycle du Volcan 🌋**

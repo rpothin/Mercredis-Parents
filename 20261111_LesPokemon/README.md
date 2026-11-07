@@ -68,8 +68,50 @@ Déroulement :
 
 ### Jeux physiques au gymnase
 
-Les jeux se déroulent au gymnase, en intérieur.
-Le groupe de chaque enfant est défini par le starter choisi à l'atelier précédent.
+Les jeux se déroulent au gymnase, en intérieur, de 10h25 à 10h55.
+Toute la classe ensemble, une activité à la fois — 2 adultes pour 16 enfants.
+Les équipes de starters (Bulbizarre, Salamèche, Carapuce) servent pour les encouragements.
+
+| Horaire | Activité | Détails |
+| ------- | -------- | ------- |
+| 10h25–10h30 | Échauffement : « 1, 2, 3, soleil » | Le meneur joue un Pokémon sauvage ; les dresseurs avancent quand il a le dos tourné |
+| 10h30–10h38 | Parcours d'obstacles | Deux parcours identiques en parallèle, 8 enfants par file |
+| 10h38–10h45 | Snubbull | Les adultes lancent des ballons mousse ; les enfants traversent en esquivant |
+| 10h45–10h52 | Ballon prisonnier | Deux équipes de 8, ballons mousse |
+| 10h52–10h55 | Retour au calme | Étirements lents, comme un Pokémon après un match |
+
+#### Détails des jeux
+
+**Échauffement — « 1, 2, 3, soleil » (5 min).**
+Le meneur joue un Pokémon sauvage qui se retourne.
+Les dresseurs avancent quand il a le dos tourné et s'immobilisent sur « soleil ».
+Quelques étirements légers pour terminer l'échauffement.
+
+**Parcours d'obstacles (8 min).**
+Deux parcours identiques côte à côte, 8 enfants par file, un adulte par file.
+Stations : slalom entre les plots, sauter d'un cerceau à l'autre, passer sous un banc ou par-dessus un obstacle bas, lancer final — un ballon mousse dans une cible (boîte ou panier), « l'attaque finale ».
+Chaque enfant parcourt le parcours en environ 30 à 45 secondes, puis retourne en fin de file.
+
+**Snubbull (7 min).**
+Les deux adultes se placent au milieu du gymnase avec des ballons mousse.
+Les enfants traversent le gymnase en ligne droite, d'un côté à l'autre et retour, en esquivant les ballons.
+Un enfant touché par un ballon devient un Snubbull et rejoint les lanceurs au milieu.
+Règles : ballons mousse seulement, pas de tir à la tête, lancers depuis la zone du milieu seulement.
+2 à 3 manches courtes ; le dernier dresseur libre gagne une manche.
+Snubbull est le Pokémon qui ressemble à un petit bouledogue (N° 0209, type Fée).
+
+**Ballon prisonnier (7 min).**
+Deux équipes de 8, une de chaque côté d'une ligne médiane, avec 2 à 3 ballons mousse (« Pokéballs »).
+Touché par un ballon, on va en « prison » derrière la ligne adverse ; un coéquipier nous libère en attrapant un ballon.
+Règles : ballons mousse seulement, pas de tir à la tête, pas de tir de près.
+Les adultes arbitrent et renvoient les ballons en jeu.
+
+**Retour au calme (3 min).**
+Étirements lents, « comme un Pokémon après un match » : s'étirer comme un Pokémon qui se réveille, respiration lente, s'allonger comme un Pokémon au repos (Ronflex se repose).
+Ton calme pour enchaîner vers la lecture de 10h55.
+
+> ℹ️ L'emplacement de l'échauffement de 10h25 reste à confirmer — le gymnase est réservé de 10h30 à 11h30.
+> Le matériel (3–4 ballons mousse, plots, cerceaux, tapis, une cible) reste à confirmer selon ce que le gymnase possède.
 
 ### Lecture d'une histoire
 
@@ -89,7 +131,7 @@ Rangement de la classe (11h15–11h20), puis retour de l'enseignante Anouska et 
 - 24 cartes starters imprimées en noir et blanc (8 × Bulbizarre, 8 × Salamèche, 8 × Carapuce) + quelques copies de réserve
 - Crayons de couleur / feutres (assez pour 16 enfants)
 - Application compagnon (carrousel du medley) + écran ou projecteur pour l'introduction
-- Matériel gymnase : plots / cerceaux pour le parcours (à confirmer selon le matériel disponible)
+- Matériel gymnase : 3–4 ballons mousse, plots, cerceaux, tapis, une cible (boîte ou panier) — à confirmer selon le matériel disponible
 - Livre choisi (à confirmer)
 
 ---

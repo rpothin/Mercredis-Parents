@@ -55,7 +55,7 @@ Déroulement :
 <p align="center">
   <img src="bulbizarre-a-colorier.webp" width="32%" alt="Bulbizarre — carte à colorier">
   <img src="salameche-a-colorier.webp" width="31%" alt="Salamèche — carte à colorier">
-  <img src="carapuce-a-colorier.webp" width="32%" alt="Carapuce — carte à colorier">
+  <img src="carapuce-a-colorier.webp" width="31.5%" alt="Carapuce — carte à colorier">
 </p>
 
 <p align="center">

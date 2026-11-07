@@ -52,28 +52,19 @@ Déroulement :
 
 **Quantités (16 enfants) :** 8 cartes par starter, soit 24 cartes au total.
 
-#### Les cartes — versions couleur et à colorier
+<p align="center">
+  <img src="bulbizarre-a-colorier.webp" width="32%" alt="Bulbizarre — carte à colorier">
+  <img src="salameche-a-colorier.webp" width="31%" alt="Salamèche — carte à colorier">
+  <img src="carapuce-a-colorier.webp" width="32%" alt="Carapuce — carte à colorier">
+</p>
 
-Les cartes sont des créations originales pour l'atelier : mise en page classique, 2 attaques par carte, descriptions imprimées.
-La version couleur complète sert de référence ; la version noir et blanc est la carte à colorier et à compléter (descriptions imprimées, noms, dégâts et PV à inventer).
+<p align="center">
+  <strong>Exemples :</strong><p/>
+  <img src="bulbizarre-couleur.webp" width="33%" alt="Bulbizarre — exemple de carte coloriée">
+  <img src="salameche-couleur.webp" width="31%" alt="Salamèche — exemple de carte coloriée">
+  <img src="carapuce-couleur.webp" width="32%" alt="Carapuce — exemple de carte coloriée">
+</p>
 
-**Bulbizarre (Plante)**
-
-![Bulbizarre — version couleur](cartes/bulbizarre-couleur.webp)
-
-Version à colorier : `cartes/bulbizarre-a-colorier.webp`
-
-**Salamèche (Feu)**
-
-![Salamèche — version couleur](cartes/salameche-couleur.webp)
-
-Version à colorier : `cartes/salameche-a-colorier.webp`
-
-**Carapuce (Eau)**
-
-![Carapuce — version couleur](cartes/carapuce-couleur.webp)
-
-Version à colorier : `cartes/carapuce-a-colorier.webp`
 
 ### Jeux physiques au gymnase
 

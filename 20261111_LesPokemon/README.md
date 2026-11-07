@@ -68,10 +68,6 @@ Déroulement :
 
 ### Jeux physiques au gymnase
 
-> ⚠️ **À revoir / réviser / affiner avec Morgane.**
-> La séquence des jeux est en cours de révision : avec seulement 2 adultes pour 16 enfants, les activités se feront en séquence (toute la classe ensemble, une activité à la fois) plutôt qu'en ateliers parallèles.
-> Le détail — ordre des activités, jeux par type (Feu, Eau, Plante) et jeu des types (Plante bat Eau, Eau bat Feu, Feu bat Plante) — sera finalisé avec Morgane avant la matinée.
-
 Les jeux se déroulent au gymnase, en intérieur.
 Le groupe de chaque enfant est défini par le starter choisi à l'atelier précédent.
 

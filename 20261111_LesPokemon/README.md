@@ -43,8 +43,8 @@ Puis présentation d'un medley de Pokémon choisis en famille, pour lancer les r
 ### Atelier cartes : choix du starter et carte à colorier
 
 2 options de distribution des cartes à colorier envisagées:
-- 3 piles de cartes melangées et face cachée avec les enfants allant piocher une carte a colorier un après l'autre
-- parent(s) distribuant cartes au hasard aux enfants restés assis
+- 3 piles de cartes mélangées et face cachée avec les enfants allant piocher une carte à colorier l'un après l'autre
+- parent(s) distribuant des cartes au hasard aux enfants restés assis
 
 > [!NOTE]
 > Le choix de la méthode de distribution dépendra du niveau de calme et d'attention de la classe au début de l'activité.
@@ -52,7 +52,7 @@ Puis présentation d'un medley de Pokémon choisis en famille, pour lancer les r
 Pokémon proposés - Pokémon du début de la 1ère génération:
 - **Bulbizarre** (Plante)
 - **Salamèche** (Feu)
-- **Carapuce** (Eau).
+- **Carapuce** (Eau)
 
 Que peuvent faire les enfants avec la carte pigée / reçue :
 - colorier les cartes
@@ -92,7 +92,7 @@ Un parent joue un Pokémon sauvage qui se retourne.
 Les dresseurs avancent quand il a le dos tourné et s'immobilisent sur « soleil ».
 
 **Parcours d'obstacles (8 min).**
-Deux parcours identiques côte à côte et les enfants réparties dans 2 files.
+Deux parcours identiques côte à côte et les enfants répartis dans 2 files.
 Stations : slalom entre les plots, sauter d'un cerceau à l'autre, passer sous un banc ou par-dessus un obstacle bas, lancer final — un ballon mousse dans une cible (boîte ou panier), « l'attaque finale ».
 Chaque enfant parcourt le parcours en environ 30 à 45 secondes, puis retourne en fin de file.
 
@@ -117,7 +117,7 @@ Les adultes arbitrent et renvoient les ballons en jeu.
 
 ### Quiz Pokémon (optionnel)
 
-Apres les jeux physiques au gymnase, si le temps le permet, un quiz de 12 questions (environ 12 à 15 minutes) sur les Pokémon de la matinée, à jouer en équipe sera proposé aux enfants : on lit la question, on discute en équipe, puis on lève la carte de la bonne couleur.
+En fin d'atelier cartes, si le temps le permet, un quiz de 12 questions (environ 12 à 15 minutes) sur les Pokémon de la matinée, à jouer en équipe, sera proposé aux enfants : on lit la question, on discute en équipe, puis on lève la carte de la bonne couleur.
 Le quiz est en ligne ici : [Quiz Pokémon — Sparkle Quiz Fun](https://sparkle-quiz-fun.lovable.app/) (accueil, puis « Jouer » sur la carte Les Pokémon).
 Questions sur les types (Plante, Eau, Fée…), les starters de l'atelier, le medley et le jeu Snubbull du gymnase.
 

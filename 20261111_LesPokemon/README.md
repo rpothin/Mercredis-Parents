@@ -2,6 +2,14 @@
 
 ![banner](./banner.jpg)
 
+> [!NOTE]
+> **Cartes à colorier à imprimer à la maison**
+>
+> Les trois cartes à colorier (Bulbizarre, Salamèche, Carapuce) sont disponibles en PDF, à imprimer en noir et blanc — 3 pages, une carte par page :
+> [Télécharger les cartes à colorier (PDF)](https://github.com/rpothin/Mercredis-Parents/raw/main/20261111_LesPokemon/cartes-a-colorier.pdf)
+>
+> *Comment faire : cliquez sur le lien — le PDF se télécharge directement — puis imprimez-le comme vous en avez l'habitude.*
+
 ## Agenda
 
 | Heure de début | Heure de fin | Activité | Animateur |
